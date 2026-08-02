@@ -1,0 +1,1 @@
+{"name":"env-check","version":"0.1.0","bin":{"env-check":"bin/env-check.js"},"license":"MIT"}
